@@ -3,7 +3,7 @@
 Exchange-T
 [OOP Learning] Simple console program for calculating revenue of actives depending of USD rate
 
-Language: Java 8 
+Language: Java 8  
 Created: 01.12.2021  
 
 ## Description
